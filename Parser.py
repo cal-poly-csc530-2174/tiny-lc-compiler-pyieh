@@ -52,10 +52,10 @@ def getStringRep(x):
    return stringFin
 
 #Main
-inputFile = "Input"
+inputFile = "INPUT"
 obj = open(inputFile, "r")
 tok = obj.read()
-outF = open("Output", "w")
+outF = open("OUTPUT", "w")
 
 toks = loads(tok)
 
