@@ -1,8 +1,8 @@
 Partner: Jonathan Tan
 
 HOW TO RUN 
-python Parser.py Input 
+python Parser.py 
 
-where file named Input contains lambda calculus you're trying to convert
+uses file named Input containing lambda calculus you're trying to convert
 
 will output translated lambda calculus to file named Output
